@@ -1,0 +1,22 @@
+Restaurant_ID,Restaurant,Cuisine
+1,Punjab Grill,North Indian
+2,Tandoor Tales,North Indian
+3,Dilli Darbar,North Indian
+4,Dosa Plaza,South Indian
+5,Udupi Express,South Indian
+6,Madras Cafe,South Indian
+7,Wok Express,Chinese
+8,Dragon Bowl,Chinese
+9,Noodle House,Chinese
+10,Pizza Corner,Italian
+11,Pasta Vita,Italian
+12,Roma Oven,Italian
+13,Burger Hub,Fast Food
+14,Crispy Chicken Co,Fast Food
+15,Wrap Station,Fast Food
+16,Biryani Bros,Biryani
+17,Hyderabad House,Biryani
+18,Dum Pukht,Biryani
+19,Sweet Tooth,Desserts
+20,Cake Walk,Desserts
+21,Ice Cream Lab,Desserts
